@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/roud33/landaleBoxBleClient/issues"
   },
-  "homepage": "https://github.com/roud33/landaleBoxBleClient#readme"
+  "homepage": "https://github.com/roud33/landaleBoxBleClient#readme",
+  "dependencies": {
+    "bleacon": "^0.5.1",
+    "gps": "^0.4.0",
+    "moment": "^2.18.1",
+    "mqtt": "^2.12.0",
+    "serialport": "^4.0.7",
+    "underscore": "^1.8.3"
+  }
 }
