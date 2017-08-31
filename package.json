@@ -1,0 +1,19 @@
+{
+  "name": "landalebleclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roud33/landaleBoxBleClient.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roud33/landaleBoxBleClient/issues"
+  },
+  "homepage": "https://github.com/roud33/landaleBoxBleClient#readme"
+}
